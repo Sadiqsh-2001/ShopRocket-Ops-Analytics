@@ -22,4 +22,4 @@ dashboards/*.twb
 
 # OS files
 .DS_Store
-Thumbs.db
+Thumbs.dbdata/
